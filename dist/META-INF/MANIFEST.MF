@@ -1,8 +1,0 @@
-Manifest-Version: 1.0
-Ant-Version: Apache Ant 1.10.8
-Created-By: 20.0.2+9-78 (Oracle Corporation)
-Class-Path: lib/JTattoo-1.6.13.jar lib/FiveCodMoverJDialogJFrame.jar l
- ib/flatlaf-3.2.1.jar lib/sqlite-jdbc-3.43.0.0.jar
-X-COMMENT: Main-Class will be added automatically by build
-Main-Class: wazaa.Wazaa
-
